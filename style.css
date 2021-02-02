@@ -1,0 +1,40 @@
+#line{
+  text-decoration: underline;
+}
+#grid3{
+  display: grid;
+  grid-template-columns: 150px 1fr;
+}
+#grid{
+  display: grid;
+  grid-template-columns: 150px 1fr;
+}
+#script{
+  padding-left: 20px;
+}
+#start{
+  float: left;
+}
+h3{
+  padding-left: 20px;
+}
+h1{
+  border-bottom: 2px solid darkblue;
+  padding: 10px;
+  text-decoration: none;
+  color: darkblue;
+}
+a{
+  text-decoration: none;
+  color: darkblue;
+}
+ol{
+  border-right: 2px solid darkblue;
+  width: 100px;
+  padding-bottom: 1fr;
+}
+img{
+  padding: 20px;
+  display: inline;
+  float: right;
+}
